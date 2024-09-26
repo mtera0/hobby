@@ -53,3 +53,6 @@ pip install spotipy
 ###### PLAYLIST_ID, PLAYLIST_NAME
 1. 利用するプレイリストを選択
 2. PLAYLIST_IDはURLのうち " https://open.spotify.com/playlist/ "以降の部分、PLAYLIST_NAMEは画面に表示されているものを取得
+
+#### 4. 実行方法
+main.pyを実行することで自身のspotifyのプレイリストに"DJ_ordered_"から始まるプレイリストが新規作成されている。
